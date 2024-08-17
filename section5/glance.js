@@ -1,0 +1,1 @@
+//obj in js have properties and things they can do(methods)
